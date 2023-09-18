@@ -61,7 +61,7 @@ export default function Hero() {
       description: {
         n: ["Fabrication d'enzymes, de vitamines, de chlorophylle."],
         p: ["Transport des produits de la photosynthèse."],
-        k: ["Formation et le grossissement du fruit."]
+        k: ["Formation et grossissement des fruits."]
       }
     },
     {
